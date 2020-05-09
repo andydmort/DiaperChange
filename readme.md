@@ -6,7 +6,9 @@ DiaperChange is an app for logging newborn diaper changes on a Fitbit Versa 2. Y
 
 Simple open the app and press the type of diaper that was changed. Then scroll to the left and see the diaper changing log. 
 
-![Img1](screenshots/Start_screen.png)
+![Img1](screenshots/start_screen.png)
+![Img2](screenshots/log1.png)
+![Img3](screenshots/wet_recorded.png)
 
 ## Repo
 If you have any issues or would like to change something feel free to fork this GitHub repo.
